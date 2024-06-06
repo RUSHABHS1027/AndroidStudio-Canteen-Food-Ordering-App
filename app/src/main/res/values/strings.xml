@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">J052_TEE_MAD</string>
+        <string name="idli">idli</string>
+        <string name="punjabithali">punjabithali</string>
+        <string name="samosa">samosa</string>
+        <string name="springroll">springroll</string>
+</resources>
